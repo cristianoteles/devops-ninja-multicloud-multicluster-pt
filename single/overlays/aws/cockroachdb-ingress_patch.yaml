@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: cockroachdb.devops-ninja.ml
+    - host: cockroachdb.experienciasnanatureza.com.br
       http:
         paths:
           - backend:
